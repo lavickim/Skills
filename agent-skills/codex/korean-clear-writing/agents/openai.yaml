@@ -1,0 +1,6 @@
+interface:
+  display_name: "자연스럽고 명확한 한국어"
+  short_description: "대화하듯 구체적으로 설명하고 독자에 맞게 다듬는 한국어 글쓰기"
+  default_prompt: "Use $korean-clear-writing to draft or edit clear, natural Korean while preserving facts and the intended tone."
+policy:
+  allow_implicit_invocation: true
